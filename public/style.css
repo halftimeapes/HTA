@@ -1,0 +1,40 @@
+
+*{
+    font-family: 'Comfortaa', cursive;
+}
+.navbar-nav{
+    text-align: right;
+    justify-content: right;
+    align-items: right;
+}
+.about {
+ background-color: #093a73;
+ color: white;
+ min-height:100vh;
+
+}
+
+.roadmap{
+        background-color: #093a73;
+        border: 4px dashed var(--secondary);
+    color: white;
+    min-height:60vh;
+
+}
+
+.title-decorated{
+    font-size: 50px;
+    text-align: center;
+}
+
+.info-block{
+    text-align: center;
+    justify-content: center;
+}
+
+.team{
+    background-color: #da332e;
+ color: white;
+ min-height:100vh;
+
+}
